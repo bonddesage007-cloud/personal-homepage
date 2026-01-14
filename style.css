@@ -12,8 +12,8 @@ header {
 }
 
 main {
-  background: #dedde4b4;
-  color: rgb(20, 20, 20);
+  background-image:url("dbond.jpg");
+  color: rgb(219, 211, 211);
   padding: 2rem;
   text-align: center;
 }
@@ -110,7 +110,7 @@ section {
 }
 
 ul {
-  list-style: none;
+  list-style:georgian;
   padding: 0;
 }
 
